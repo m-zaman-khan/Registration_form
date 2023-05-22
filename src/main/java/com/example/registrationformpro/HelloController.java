@@ -56,7 +56,7 @@ public class HelloController {
                         Scene scene1 = new Scene(fxmlLoader1.load(), 400, 600);
                         Stage stg = new Stage();
                         stg.setScene(scene1);
-                        stg.show();
+                        stg.show();                       // stage show
                 }
             }
         }
